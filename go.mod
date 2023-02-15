@@ -13,7 +13,7 @@ require (
 	github.com/mkmik/multierror v0.3.0
 	github.com/onsi/ginkgo v1.14.0
 	github.com/onsi/gomega v1.10.1
-	github.com/prometheus/client_golang v1.9.0
+	github.com/prometheus/client_golang v1.11.1
 	github.com/spf13/pflag v1.0.5
 	github.com/throttled/throttled v2.2.2+incompatible
 	golang.org/x/crypto v0.0.0-20210220033148-5ea612d1eb83
